@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zengdun-cs&show_icons=true&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m an PhD student in UESTC, SMILELab.
+- 🌱 I’m currently studying on Federated Learning and Distributed Learning.
 
 <!--
 **Zengdun-cs/Zengdun-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zengdun-cs&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
