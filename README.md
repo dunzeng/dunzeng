@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a PhD student in SMILELab, UESTC.
+- 🔭 I’m a PhD candidate in SMILELab, UESTC.
 - 🌱 I’m currently studying on Federated Learning and Distributed Learning.
 
 <!--
