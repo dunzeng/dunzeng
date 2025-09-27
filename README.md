@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm currently an AI researcher at OPPO Research Institute, studying data-centric techniques for LLMs. 
+I'm currently an AI researcher at OPPO Research Institute, studying data-centric techniques for LLMs.  Here are some facts about me:
 
-Some facts about me:
 - 🤔 I’m currently working on multi-modal LLMs for information retrieval, evaluating my theoretical works in real-world applications.
 - 🌱 I’m interested in Federated Learning and Distributed Optimization Theory.
 - ⚡  I was a research intern in Pengcheng Lab, Tencent AI Lab, and Bytedance Data. 
