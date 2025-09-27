@@ -2,7 +2,7 @@
 
 I'm currently an AI researcher at OPPO Research Institute, studying data-centric techniques for LLMs.  Here are some facts about me:
 
-- 🤔 I’m currently working on multi-modal LLMs for information retrieval, evaluating my theoretical works in real-world applications.
+- 🤔 I’m currently working on multi-modal LLMs for information retrieval and verifying my theories in real-world applications.
 - 🌱 I’m interested in Federated Learning and Distributed Optimization Theory.
 - ⚡  I was a research intern in Pengcheng Lab, Tencent AI Lab, and Bytedance Data. 
 - 🔭 I received my Ph.D. degree from UESTC in 2025 (advised by [Zenglin Xu](https://scholar.google.com/citations?user=gF0H9nEAAAAJ)) and bachelor degree from OUC in 2020.
